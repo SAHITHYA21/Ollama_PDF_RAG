@@ -38,6 +38,8 @@ This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)*
         python localrag.py
         ```
 
+![image](https://github.com/SAHITHYA21/Ollama_PDF_RAG/assets/48857403/f1897869-21d9-4efc-ad02-ee5abdbd55bf)
+
 ## What is RAG?
 
 **Retrieval-Augmented Generation (RAG)** enhances the capabilities of **Language Learning Models (LLMs)** by combining their powerful language understanding with the targeted retrieval of relevant information from external sources. This often involves using embeddings stored in vector databases, resulting in more accurate, trustworthy, and versatile AI-powered applications.
